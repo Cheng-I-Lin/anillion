@@ -1,0 +1,3536 @@
+{
+  "license": "CC0-1.0",
+  "records": [
+    {
+      "id": "Q25929253",
+      "name": "Naruto",
+      "search": "Naruto",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2002,
+      "genres": [
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q25929253$A6D0E7A1-4D0D-48D9-A6F3-74E3B15BDBD2"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q25929253$44100D21-87EB-4B0B-9A55-F4441921F0E1"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q25929253$FEC5D674-DCFC-4613-AF4E-7FD96B91E563"
+        },
+        {
+          "id": "Q136806262",
+          "label": "martial arts anime and manga",
+          "statement": "Q25929253$579182D3-C459-4F22-AC9E-9ADA674EEBF9"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2002-10-00T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 10,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q25929253$fee8edc2-4484-c91e-bf1a-c6a7966cd61f"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q25929253",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q734663",
+          "label": "TV Tokyo",
+          "statement": "Q25929253$E51FDE87-96C1-4065-A146-4069EEEA34B0"
+        }
+      ]
+    },
+    {
+      "id": "Q710324",
+      "name": "One Piece",
+      "search": "One Piece",
+      "description": "Japanese anime television series",
+      "aliases": ["OP", "Wanpi"],
+      "firstYear": 1999,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q710324$BFB63348-A7C2-4604-949E-2020A5995C64"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q710324$AF03F307-B0F5-4028-A194-C137A0D38985"
+        },
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q710324$5D8A2895-C336-422F-82FC-ABD77A9FE14C"
+        },
+        {
+          "id": "Q135937128",
+          "label": "time-travel anime and manga",
+          "statement": "Q710324$94E49E9D-331F-4590-8D9E-D0E5AAAD96F8"
+        },
+        {
+          "id": "Q111143082",
+          "label": "pirate fiction",
+          "statement": "Q710324$bd0e7cff-41d8-68cf-4864-f2fa298f94a8"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1999-12-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q710324$35382869-003E-4B2D-A7CC-A4C3F73E9D52"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q710324",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q730179",
+          "label": "Toei Animation",
+          "statement": "Q710324$29FF2F0B-66CE-4F51-B83B-BA416EAA2DE5"
+        }
+      ]
+    },
+    {
+      "id": "Q5362638",
+      "name": "Bleach",
+      "search": "Bleach",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2004,
+      "genres": [
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q5362638$AE89AEBA-F4F1-4A4B-A0F9-9E9BE11210C1"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q5362638$0A4E7FF5-1548-4094-A2A5-FE3D8FF9B824"
+        },
+        {
+          "id": "Q1188977",
+          "label": "urban fantasy",
+          "statement": "Q5362638$dd3302ce-4c54-d274-c750-7ac73de43b9d"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2004-10-05T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q5362638$eb04e976-4d07-2442-7700-c8501f092f03"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q5362638",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q611346",
+          "label": "Studio Pierrot",
+          "statement": "Q5362638$dccf2ead-405a-b12c-717b-ff7ae99e469b"
+        }
+      ]
+    },
+    {
+      "id": "Q63350570",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "search": "Demon Slayer: Kimetsu no Yaiba",
+      "description": "Japanese anime television series",
+      "aliases": ["Kimetsu no Yaiba", "Demon Slayer"],
+      "firstYear": 2019,
+      "genres": [
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q63350570$d8266b23-445c-569b-9188-7a5b95d81ca6"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q63350570$58d94900-41ba-557b-e2c9-414419903627"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q63350570$C00587AA-CC3D-40C7-88B0-02CB186A0BE3"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q63350570$b2ec912e-42ea-0809-b02e-a9b6efb108fd"
+        },
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q63350570$b38df95e-4af6-6373-886e-c8a5588cb308"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2019-04-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q63350570$b64c88ba-4206-66d6-5af4-db9e9e3d3e74"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q63350570",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q306422",
+          "label": "Ufotable",
+          "statement": "Q63350570$45e157bf-4331-4981-9279-8b1e61a538af"
+        }
+      ]
+    },
+    {
+      "id": "Q98836216",
+      "name": "Jujutsu Kaisen",
+      "search": "Jujutsu Kaisen",
+      "description": "Japanese anime television series",
+      "aliases": ["JJK"],
+      "firstYear": 2020,
+      "genres": [
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q98836216$866218EB-CB8A-49A8-83AA-C98BD2168A12"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q98836216$C109E75D-DB1D-4464-ABAB-4C6E33B02B7C"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q98836216$0B7E539A-89C2-4252-9824-7116849F9264"
+        },
+        {
+          "id": "Q1188977",
+          "label": "urban fantasy",
+          "statement": "Q98836216$3868761e-4fe5-f059-3b32-e02f8757b288"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2020-10-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q98836216$32300aea-40e0-1787-2138-e1af13bb669d"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q98836216",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q11231001",
+          "label": "MAPPA",
+          "statement": "Q98836216$58500ec5-435d-425b-ce75-a9da0893bb01"
+        }
+      ]
+    },
+    {
+      "id": "Q67144604",
+      "name": "Haikyu!!",
+      "search": "Haikyu!!",
+      "description": "Japanese anime television series",
+      "aliases": ["Haikyuu!!", "Haikyū!!"],
+      "firstYear": 2014,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2014-04-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q67144604$6ba95d0f-4a05-1abf-8e77-141693f0cf8c"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q67144604",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q735670",
+          "label": "Production I.G",
+          "statement": "Q67144604$c746e8d4-4c8c-b770-c3f6-35e14a2d624c"
+        }
+      ]
+    },
+    {
+      "id": "Q66313196",
+      "name": "Mob Psycho 100",
+      "search": "Mob Psycho 100",
+      "description": "Japanese anime television series",
+      "aliases": ["Mob Psycho"],
+      "firstYear": 2016,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2016-07-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q66313196$230c6143-47e9-936e-edf4-22376b062789"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q66313196",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q834471",
+          "label": "Bones",
+          "statement": "Q66313196$ec8c0b80-4205-c706-93b9-4970df5cb6f4"
+        }
+      ]
+    },
+    {
+      "id": "Q115792176",
+      "name": "Frieren",
+      "search": "Frieren: Beyond Journey’s End",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "Sōsō no Frieren",
+        "Sousou no Frieren",
+        "Soso no Frieren",
+        "Frieren at the Funeral",
+        "Frieren: Beyond Journey's End"
+      ],
+      "firstYear": 2023,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q115792176$03585c0e-467a-0bc3-7493-b3200d4b0bc0"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q115792176$58d26800-40f0-33b1-485d-d51c544aff50"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2023-09-29T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q115792176$7bf8b361-4b42-a624-bf76-a8f06dd4ba68"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q115792176",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q115792176$8e99143e-441d-1eb7-fc6d-54df56cb963c"
+        }
+      ]
+    },
+    {
+      "id": "Q104211858",
+      "name": "Chainsaw Man",
+      "search": "Chainsaw Man",
+      "description": "Japanese anime television series",
+      "aliases": ["Chainsawman", "CSM"],
+      "firstYear": 2022,
+      "genres": [
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q104211858$73d0581f-4319-451a-7167-27a11880fab5"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q104211858$fe18feee-462b-2f12-314b-77ed699a70cf"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2022-10-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q104211858$c56ec52e-4fd9-8f34-07ce-7ce079f0a397"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q104211858",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q11231001",
+          "label": "MAPPA",
+          "statement": "Q104211858$16a0302d-4418-d9e6-17cc-3da96f0044d5"
+        }
+      ]
+    },
+    {
+      "id": "Q101244908",
+      "name": "Cowboy Bebop",
+      "search": "Cowboy Bebop",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 1998,
+      "genres": [
+        {
+          "id": "Q2421031",
+          "label": "neo-noir",
+          "statement": "Q101244908$32609204-A4B0-4741-8CCF-6E58511BE7AA"
+        },
+        {
+          "id": "Q15712927",
+          "label": "comedy drama anime and manga",
+          "statement": "Q101244908$AAE80B0A-D79B-43A6-B607-F5FD4A35B8E3"
+        },
+        {
+          "id": "Q4235011",
+          "label": "space Western",
+          "statement": "Q101244908$4F234AE3-4E55-4FEB-8A5D-9DC5EEBCB551"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q101244908$B5DA58DB-A0B1-4AC5-BBEA-8AD4C372D603"
+        },
+        {
+          "id": "Q101240755",
+          "label": "thriller anime and manga",
+          "statement": "Q101244908$3C486A23-3D5B-4B14-AFB9-6C8559E5680E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1998-04-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q101244908$3E4EE493-34EE-4243-93BF-4E8EE7B6CAB4"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q101244908",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q111450707",
+          "label": "Sunrise",
+          "statement": "Q101244908$a9c486ff-4d81-f28b-8227-76470fd09540"
+        }
+      ]
+    },
+    {
+      "id": "Q22126305",
+      "name": "Attack on Titan",
+      "search": "Attack on Titan",
+      "description": "Japanese anime television series",
+      "aliases": ["AoT", "Shingeki no Kyojin", "SnK"],
+      "firstYear": 2013,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q22126305$0784e405-4f81-4c6d-fc09-76b8e94c87e8"
+        },
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q22126305$a87bd4ab-4a43-3b4f-0339-757caa80ef18"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q22126305$8c25cf50-4137-07ef-9654-d1903a86c3e2"
+        },
+        {
+          "id": "Q101240755",
+          "label": "thriller anime and manga",
+          "statement": "Q22126305$3A7FB2FB-EF06-48C6-B3FA-AEDA4B3967FF"
+        },
+        {
+          "id": "Q138504282",
+          "label": "dystopian anime and manga",
+          "statement": "Q22126305$6a082c51-4b6f-91ea-6ef3-25963f3efaeb"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2013-04-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q22126305$c38de643-411d-014c-ba97-ea106b5a1791"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q22126305",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q14508383",
+          "label": "Wit Studio",
+          "statement": "Q22126305$530B0EAD-46E6-43FE-BDD8-6F7D23327ACE"
+        },
+        {
+          "id": "Q11231001",
+          "label": "MAPPA",
+          "statement": "Q22126305$9367ba58-485f-eff5-22e1-5936e6836b95"
+        }
+      ]
+    },
+    {
+      "id": "Q718624",
+      "name": "Death Note",
+      "search": "Death Note",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2006,
+      "genres": [
+        {
+          "id": "Q101240755",
+          "label": "thriller anime and manga",
+          "statement": "Q718624$795CE01B-A8BA-4623-842C-FA7CF507C1FE"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q718624$4B8EB6C8-092E-464F-814A-E5579D8AF3A4"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q718624$EE05AAD2-0CE4-4759-AAF4-BABD1CDB47AC"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2006-10-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q718624$AA73ECBA-8E5E-4A8D-B5A4-9DC859F40BC4"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q718624",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q437808",
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "search": "Fullmetal Alchemist: Brotherhood",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "FMA - B",
+        "FMAB",
+        "Fullmetal Alchemist - Brotherhood",
+        "Fullmetal Alchemist Brotherhood"
+      ],
+      "firstYear": 2009,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q437808$94F6F398-8BCC-45A7-BC67-97B7FB56F8BD"
+        },
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q437808$30FAA27F-8CB2-4C50-8D2B-9FFB38C2C478"
+        },
+        {
+          "id": "Q223685",
+          "label": "steampunk",
+          "statement": "Q437808$34157B9C-0336-4014-822E-0BBFB0D7E43C"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q437808$E62012DD-2438-4994-8910-E032CC30464E"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q437808$91799575-60AA-4515-8470-868B69A873FF"
+        },
+        {
+          "id": "Q26225475",
+          "label": "anti-war fiction",
+          "statement": "Q437808$4E67E590-3F09-4D1D-9D98-B67B3A09CA45"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q437808$b21b8c35-4f0b-72d5-2a1a-5a4b3256e1c6"
+        },
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q437808$7cc66080-4d79-f59f-7b24-3ea0ba634c5a"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2009-04-05T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q437808$0ae9e139-4456-05f3-0f04-870615ffab9c"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q437808",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q834471",
+          "label": "Bones",
+          "statement": "Q437808$bc7b4128-4fca-a44d-d90b-fb1f40b209dd"
+        }
+      ]
+    },
+    {
+      "id": "Q70209136",
+      "name": "Hunter × Hunter",
+      "search": "Hunter × Hunter",
+      "description": "2011 Japanese anime television series",
+      "aliases": ["Hunter x Hunter", "H×H", "HxH"],
+      "firstYear": 2011,
+      "genres": [
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q70209136$c23e3146-43f1-de7f-3569-ff9f05700cb5"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q70209136$e6afb182-463d-7a45-3910-cdc1f56f79c9"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q70209136$4f2db376-400e-a6b5-2d8a-d9ef133ac72c"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q70209136$907ce0dc-432e-fe3c-99fb-124d4e55dcce"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-10-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q70209136$af91fe4d-436a-cedb-bf34-1e8acf90fbed"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q70209136",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q239506",
+      "name": "Dragon Ball",
+      "search": "Dragon Ball",
+      "description": "Japanese anime television series",
+      "aliases": ["DB"],
+      "firstYear": 1986,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q239506$F0366FCA-9F44-47B2-8B08-076B7C5585AC"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q239506$D064DDC3-3AA4-4DFA-8888-92B7A8BDE57B"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q239506$1965009d-468b-a356-6bd4-b7fa6756f601"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1986-02-26T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q239506$1dfdb666-454c-041d-e338-e52bfb064d80"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q239506",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q730179",
+          "label": "Toei Animation",
+          "statement": "Q239506$87934f5c-4407-5382-dae9-927097c77013"
+        }
+      ]
+    },
+    {
+      "id": "Q477916",
+      "name": "Dragon Ball Z",
+      "search": "Dragon Ball Z",
+      "description": "Japanese anime television series",
+      "aliases": ["DBZ"],
+      "firstYear": 1989,
+      "genres": [
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q477916$D110AAD6-F9B0-4F7E-8DD2-F2076B6E154D"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q477916$1d2a2c12-4e3c-f57b-5b82-216510935a5a"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q477916$1d25e64e-433f-a86c-2b53-f500cf1f58c1"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q477916$d122dc2c-4a66-ac9f-86e6-1f9db5cfae71"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1989-04-26T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q477916$8aca8dd0-4b41-2d90-26d7-75cf01018aed"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q477916",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q730179",
+          "label": "Toei Animation",
+          "statement": "Q477916$22a8d78f-4e51-9267-85fc-1fc38115f377"
+        }
+      ]
+    },
+    {
+      "id": "Q22341674",
+      "name": "One-Punch Man",
+      "search": "One-Punch Man",
+      "description": "Japanese anime television series",
+      "aliases": ["Wanpanman", "One Punch Man", "OPM"],
+      "firstYear": 2015,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2015-10-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q22341674$ecbbac14-4c68-5261-8d78-b039efd27a53"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q22341674",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q109333365",
+      "name": "Spy × Family",
+      "search": "Spy × Family",
+      "description": "Japanese anime television series",
+      "aliases": ["Spy x Family", "Spy Family", "S×F", "SxF", "Spy×Family"],
+      "firstYear": 2022,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2022-04-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q109333365$778C098C-AD22-4317-B9D3-A219D163D230"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q109333365",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q14508383",
+          "label": "Wit Studio",
+          "statement": "Q109333365$53c8a93f-4a43-19cd-f730-bdeb223f7948"
+        },
+        {
+          "id": "Q52700115",
+          "label": "CloverWorks",
+          "statement": "Q109333365$9d1ccb28-4061-98b4-89d0-d11c1f89605b"
+        }
+      ]
+    },
+    {
+      "id": "Q61041618",
+      "name": "Dr. Stone",
+      "search": "Dr. Stone",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2019,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q61041618$F8E03203-5A29-4E95-9D45-FC92FB91469C"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q61041618$B7207FA0-DDBE-47DD-BA2E-2BFA0C764C39"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q61041618$93E6F9DA-9EDB-4D65-98C8-94318EC8BB13"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2019-07-05T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q61041618$701a304c-4316-a0b6-56b6-1a5570f2f3f2"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q61041618",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1054807",
+          "label": "TMS Entertainment",
+          "statement": "Q61041618$b15c4c96-4a76-0aa8-f7ac-edf5770830f1"
+        }
+      ]
+    },
+    {
+      "id": "Q20590069",
+      "name": "Steins;Gate",
+      "search": "Steins;Gate",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2011,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q20590069$C535B7E7-2F5E-47AD-95EB-0E71378F5F07"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q20590069$B4488DE8-E75F-4B5E-A41E-C38B73E077DD"
+        },
+        {
+          "id": "Q101240755",
+          "label": "thriller anime and manga",
+          "statement": "Q20590069$C6E73C75-EFA6-4A02-8ECF-A0582564271F"
+        },
+        {
+          "id": "Q135937128",
+          "label": "time-travel anime and manga",
+          "statement": "Q20590069$b1f328a2-40ca-ab48-9c4e-f04beaef0015"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-04-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q20590069$927CB3CE-A730-47F1-AA3B-DDC29CFEAEF8"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q20590069",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q749550",
+          "label": "White Fox",
+          "statement": "Q20590069$e2be09d7-421c-89af-f15d-f7c49a813850"
+        }
+      ]
+    },
+    {
+      "id": "Q57390937",
+      "name": "Violet Evergarden",
+      "search": "Violet Evergarden",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2018,
+      "genres": [
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q57390937$1bd954e6-473a-4a5a-f6f8-a29486598642"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-01-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q57390937$7de5b371-4f3b-449a-c81c-b9bcfdef7ff8"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q57390937",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q877325",
+          "label": "Kyoto Animation",
+          "statement": "Q57390937$92b73d87-496a-2e48-f676-63020ea2f9cf"
+        }
+      ]
+    },
+    {
+      "id": "Q15863567",
+      "name": "K-On!",
+      "search": "K-On!",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2009,
+      "genres": [
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q15863567$F39C7F80-4C65-4ADF-A9E9-A89D53248965"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q15863567$FE0C1D59-AB70-42D9-837D-1DC8B01307A4"
+        },
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q15863567$442C36B0-C394-4FB6-B4AE-F235CF8BE174"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q15863567$BCD8EB80-F7A9-4167-A14C-3E6AA6EAF6FD"
+        },
+        {
+          "id": "Q101441130",
+          "label": "cute girls doing cute things",
+          "statement": "Q15863567$5057B020-D779-4F34-8A01-D6A960E31334"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2009-04-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q15863567$9309c328-4b81-d7fb-88ba-23ab33ed313d"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q15863567",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q877325",
+          "label": "Kyoto Animation",
+          "statement": "Q15863567$FC919A8F-6426-4EDC-88FC-8F29D0D4B54E"
+        }
+      ]
+    },
+    {
+      "id": "Q108230373",
+      "name": "Bocchi the Rock!",
+      "search": "Bocchi the Rock!",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2022,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q108230373$046B156D-9A2E-4885-9546-401740760E26"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q108230373$1CDAEBA5-4236-4E50-ACAB-54387E976C05"
+        },
+        {
+          "id": "Q116672077",
+          "label": "band anime and manga",
+          "statement": "Q108230373$4c88c2f4-4ac8-31dd-146a-7c877d6f2661"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2022-10-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q108230373$ad59e090-4701-f16c-1ab6-a4a814f0f04b"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q108230373",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q52700115",
+          "label": "CloverWorks",
+          "statement": "Q108230373$36e48e42-4b0f-8a1c-c739-84682f810e13"
+        }
+      ]
+    },
+    {
+      "id": "Q91333870",
+      "name": "Your Lie in April",
+      "search": "Your Lie in April",
+      "description": "Japanese anime television series",
+      "aliases": ["Shigatsu wa Kimi no Uso", "Kimiuso"],
+      "firstYear": 2014,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q91333870$51780B09-DD5B-448E-8B14-5F07A75D9E8E"
+        },
+        {
+          "id": "Q15637310",
+          "label": "romance anime and manga",
+          "statement": "Q91333870$9EB55256-C4FB-4DE2-A66A-4708DDF3BAC9"
+        },
+        {
+          "id": "Q104530887",
+          "label": "love triangle romance",
+          "statement": "Q91333870$0E4E2F51-0866-467A-876C-D9A03B74C360"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2014-10-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q91333870$73badbfb-417e-59fe-dfe4-ec730f9328c8"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q91333870",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q277763",
+          "label": "A-1 Pictures",
+          "statement": "Q91333870$7A061F3F-4BBD-436E-BB33-9E6F8359ACFA"
+        }
+      ]
+    },
+    {
+      "id": "Q1095034",
+      "name": "Clannad",
+      "search": "Clannad",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2007,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q1095034$C37E6130-3F10-4065-A362-AF2862BD3871"
+        },
+        {
+          "id": "Q15637310",
+          "label": "romance anime and manga",
+          "statement": "Q1095034$1729AD08-FFCB-4AD2-8F1B-1AE867E5A29E"
+        },
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q1095034$308C2E9F-F594-4D2C-9960-7CFB0905A1EE"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q1095034$247ED782-5D4A-4F44-981E-F9EDD25B5685"
+        },
+        {
+          "id": "Q690342",
+          "label": "harem",
+          "statement": "Q1095034$C9F6BDB1-9D20-401E-8C84-FAF3BE6E7F5E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2007-10-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1095034$B87FF1BC-A677-468E-AB46-81C99D4BC8AA"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1095034",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q877325",
+          "label": "Kyoto Animation",
+          "statement": "Q1095034$968d29ff-4085-c16d-2707-c13b2ccbc95a"
+        }
+      ]
+    },
+    {
+      "id": "Q61400349",
+      "name": "Toradora!",
+      "search": "Toradora!",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2008,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q61400349$5148571a-4bf6-31dd-73c4-d9882db8a6af"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q61400349$eb20e092-45c1-db86-2418-9cbc0b1832e3"
+        },
+        {
+          "id": "Q219559",
+          "label": "ecchi",
+          "statement": "Q61400349$DDE74ED3-B10B-4359-9D17-284BEF7F745B"
+        },
+        {
+          "id": "Q15712145",
+          "label": "romantic comedy anime and manga",
+          "statement": "Q61400349$2c4139ea-44fa-4f93-c985-d1792cce594d"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2008-10-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q61400349$fa7fe943-4dc0-0275-fe98-c914299ffb58"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q61400349",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1065717",
+          "label": "J.C.Staff",
+          "statement": "Q61400349$ecb5480f-4d78-9c37-bfcc-c6d52b6fc46a"
+        }
+      ]
+    },
+    {
+      "id": "Q112573940",
+      "name": "March Comes In Like a Lion",
+      "search": "March Comes in Like a Lion",
+      "description": "Japanese anime television series",
+      "aliases": ["Sangatsu no Lion", "3-gatsu no Lion"],
+      "firstYear": 2016,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2016-10-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q112573940$5B979B7B-2A12-4A77-AEF1-4827A4028170"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q112573940",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1204821",
+          "label": "Shaft",
+          "statement": "Q112573940$8229F332-DCD1-461F-9CE1-B530629EA99B"
+        }
+      ]
+    },
+    {
+      "id": "Q120141279",
+      "name": "Natsume's Book of Friends",
+      "search": "Natsume’s Book of Friends",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "Natsume Yūjin-chō",
+        "Natsume Yūjinchō",
+        "Natsume Yuujinchou"
+      ],
+      "firstYear": 2008,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q120141279$5d0aa9d6-4bb7-b353-f9c2-18a464929be5"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q120141279$54e8c9da-4274-4e30-3d60-a66fab502ad1"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2008-07-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q120141279$AEFFD065-98D3-4555-B89C-79CA4E3105D0"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q120141279",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q132181135",
+      "name": "Mushishi",
+      "search": "Mushishi",
+      "description": "Japanese anime television series",
+      "aliases": ["Mushi-Shi"],
+      "firstYear": 2005,
+      "genres": [
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q132181135$9E4E376F-5D3F-4BC5-AD6A-2FFD753CE5E2"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q132181135$B5DE3A1A-6E3A-42CF-A2C0-A458F99B234E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2005-10-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q132181135$55A2E738-8371-4856-B6A9-5F31DDEA3580"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q132181135",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q2296711",
+          "label": "Artland",
+          "statement": "Q132181135$E3886ED4-F0C2-40BB-AFC9-2369318CF093"
+        }
+      ]
+    },
+    {
+      "id": "Q1202622",
+      "name": "Mononoke",
+      "search": "Mononoke",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2007,
+      "genres": [
+        {
+          "id": "Q12767035",
+          "label": "horror anime and manga",
+          "statement": "Q1202622$E0FC3A5B-849B-4F36-98DA-1091AE064BDE"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q1202622$AC90E001-B5F3-4D79-A34D-8D70CF5E62E1"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2007-07-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1202622$B11051D2-F71F-4CB2-B04A-C430D291A328"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1202622",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q730179",
+          "label": "Toei Animation",
+          "statement": "Q1202622$692153de-41c5-823d-5053-67238a2b8171"
+        }
+      ]
+    },
+    {
+      "id": "Q1479392",
+      "name": "Haibane Renmei",
+      "search": "Haibane Renmei",
+      "description": "Japanese anime television series",
+      "aliases": ["Charcoal Feather Federation"],
+      "firstYear": 2002,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q1479392$67B0A9DD-7C25-4DC4-AAE8-D98B1F08128E"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q1479392$2B9E028E-31B6-47E9-9AEF-995BBEC3D965"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q1479392$3A8F5207-9AF0-4B35-A6F2-D05B4C44885B"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q1479392$F0F3C196-28EF-4BBA-A016-1326231572B6"
+        },
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q1479392$762A10BE-7E07-401F-A8EF-5D18508D1209"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2002-10-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1479392$2D3F53E1-CB5E-40EC-963E-638868D0146D"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1479392",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q3543920",
+          "label": "Radix",
+          "statement": "Q1479392$e9f31b68-493a-df32-6b31-d7a63e24ab15"
+        }
+      ]
+    },
+    {
+      "id": "Q777898",
+      "name": "Texhnolyze",
+      "search": "Texhnolyze",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2003,
+      "genres": [
+        {
+          "id": "Q174526",
+          "label": "cyberpunk",
+          "statement": "Q777898$6BCB5B42-38F1-4161-8142-3B4F8B37B084"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q777898$e6ebd75a-4662-4590-a472-d1669fc2175e"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-04-17T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q777898$44324709-45cc-65bd-fd0f-6c56d53b0183"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q777898",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q777898$08515c93-49a7-6ec1-e7a9-c35daa399fe6"
+        }
+      ]
+    },
+    {
+      "id": "Q858387",
+      "name": "Serial Experiments Lain",
+      "search": "Serial Experiments Lain",
+      "description": "Japanese anime television series",
+      "aliases": ["Lain", "SEL"],
+      "firstYear": 1998,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q858387$941145AE-F988-4416-9C1A-7BA13048C064"
+        },
+        {
+          "id": "Q174526",
+          "label": "cyberpunk",
+          "statement": "Q858387$ad208a59-465b-d168-4658-1362ba123d88"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1998-07-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q858387$C17197A7-A98D-4891-A698-EE4B2020807F"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q858387",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q3062351",
+          "label": "Triangle Staff",
+          "statement": "Q858387$29c83250-4487-b8ed-5cd9-3ed73a108477"
+        }
+      ]
+    },
+    {
+      "id": "Q832098",
+      "name": "Ergo Proxy",
+      "search": "Ergo Proxy",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2006,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q832098$76978A93-89E0-474A-BDEB-8ECF87C17FAE"
+        },
+        {
+          "id": "Q174526",
+          "label": "cyberpunk",
+          "statement": "Q832098$715f4b3e-4e85-b9a8-c806-70f1f690fab3"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q832098$2764BECC-AF9A-4DBC-A8FA-5064A74F26CF"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q832098$216BA0B6-E763-4468-857E-D16A813ED73A"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2006-02-25T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q832098$95B32E1B-B303-48EB-8B4D-E36E16F657D3"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q832098",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q645476",
+          "label": "Manglobe",
+          "statement": "Q832098$e4edccb6-4bd4-98c6-7ff0-c20c8b4ab462"
+        }
+      ]
+    },
+    {
+      "id": "Q1721391",
+      "name": "Kaiba",
+      "search": "Kaiba",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2008,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q1721391$4F0CD62A-CD09-4EF7-A396-CE65A730A8B3"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2008-04-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1721391$426b3a22-4f60-1939-de7d-0643df837649"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1721391",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q1721391$aba67fb5-4a2b-527b-c327-d59fa1c7193a"
+        }
+      ]
+    },
+    {
+      "id": "Q123151099",
+      "name": "The Tatami Galaxy",
+      "search": "The Tatami Galaxy",
+      "description": "Japanese anime television series",
+      "aliases": ["Yojōhan Shinwa Taikei", "Yojouhan Shinwa Taikei"],
+      "firstYear": 2010,
+      "genres": [
+        {
+          "id": "Q15712927",
+          "label": "comedy drama anime and manga",
+          "statement": "Q123151099$955AFDEE-B8C5-403A-AA04-067ED5F3597E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2010-04-23T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q123151099$73C3FE13-D92B-4356-9EC0-15880DB4619B"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q123151099",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q104549787",
+      "name": "Planetes",
+      "search": "Planetes",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2003,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q104549787$D7098043-B1F4-4840-82F8-9E132B6AF763"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q104549787$24B03055-34CA-4165-A372-498D9EF77A19"
+        },
+        {
+          "id": "Q104530887",
+          "label": "love triangle romance",
+          "statement": "Q104549787$831D5095-C861-4040-AF81-C83C6FB421D2"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q104549787$C7600C83-58B7-47D5-A069-36EBD1D3D8EE"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-10-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q104549787$08c2e721-401c-961e-5ff4-6887a1a2b391"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q104549787",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q111450707",
+          "label": "Sunrise",
+          "statement": "Q104549787$92494f42-43d7-6c44-3b2f-c068271db1d4"
+        }
+      ]
+    },
+    {
+      "id": "Q14831173",
+      "name": "Space Dandy",
+      "search": "Space Dandy",
+      "description": "Japanese anime television series",
+      "aliases": ["Space☆Dandy"],
+      "firstYear": 2014,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q14831173$9ADB0BC3-61D3-4362-AC16-4ECE49F4FE7A"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q14831173$8F7CC002-9DFA-431D-9199-0E2256C1F3F1"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2014-01-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q14831173$a7c9fb45-4c8a-3716-d0a4-15a7ab8eeb6b"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q14831173",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q834471",
+          "label": "Bones",
+          "statement": "Q14831173$ad10d203-4726-5672-491d-91620dd31d8c"
+        }
+      ]
+    },
+    {
+      "id": "Q143276",
+      "name": "Samurai Champloo",
+      "search": "Samurai Champloo",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2004,
+      "genres": [
+        {
+          "id": "Q101240934",
+          "label": "historical anime and manga",
+          "statement": "Q143276$561DB7DC-E1FE-443A-9BEE-925D525F047D"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q143276$a1915af0-441d-047f-4868-5717242f33ad"
+        },
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q143276$38f9135c-4d5c-f57b-8c90-3a3eb7fea23f"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2004-05-19T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q143276$FF5625F0-011B-401F-BDE2-B3E7F1701284"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q143276",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q645476",
+          "label": "Manglobe",
+          "statement": "Q143276$4aeab5e3-4bce-ff42-ebde-6d7e209e0fe8"
+        }
+      ]
+    },
+    {
+      "id": "Q18575654",
+      "name": "Trigun",
+      "search": "Trigun",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 1998,
+      "genres": [
+        {
+          "id": "Q4235011",
+          "label": "space Western",
+          "statement": "Q18575654$2FBEF488-06BB-4D9B-80E3-42375B88409B"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q18575654$3512b188-409b-cf37-74b2-f6baa57c24a2"
+        },
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q18575654$47d2de1d-403f-88ce-89f9-2cea68047689"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1998-04-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q18575654$a0ed4e48-40a9-6b7c-20ca-66257a63f4b9"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q18575654",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q18575654$70e6c79f-4533-1b5b-c9be-1417456f2743"
+        }
+      ]
+    },
+    {
+      "id": "Q2470001",
+      "name": "Outlaw Star",
+      "search": "Outlaw Star",
+      "description": "Japanese anime television series",
+      "aliases": ["Seihō Bukyō Outlaw Star"],
+      "firstYear": 1998,
+      "genres": [
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q2470001$C6D88695-9DA3-4352-84C4-3695FCA68F34"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q2470001$0777770E-CABB-4CA7-8A4C-AACA68F911E4"
+        },
+        {
+          "id": "Q4235011",
+          "label": "space Western",
+          "statement": "Q2470001$CC22F3BE-5B5A-4E38-ADF1-3F737B135409"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1998-01-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q2470001$34A6BAC5-075B-4E0D-90AA-22D16F6DADDB"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q2470001",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q111450707",
+          "label": "Sunrise",
+          "statement": "Q2470001$209061FA-4D85-43E7-8605-8F55FDE8B336"
+        }
+      ]
+    },
+    {
+      "id": "Q747417",
+      "name": "Wolf's Rain",
+      "search": "Wolf’s Rain",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2003,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q747417$6EC09D80-6E57-4AF0-8976-183996EF32AA"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q747417$0B83AC64-AC17-40AA-83F5-50F52465D2D2"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q747417$0A3AE0D7-C0D8-492A-8334-1AF72EE29D3B"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q747417$F45744E1-03EC-455E-B4A2-0BEFDD2658B9"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q747417$041601fa-4bda-7cf7-2b0e-b7fd219bd6d1"
+        },
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q747417$9428d3db-4851-5b1c-76bf-1d64918f8428"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-01-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q747417$714e44d5-4c96-b99b-c425-50478919b9ea"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q747417",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q917980",
+      "name": "Witch Hunter Robin",
+      "search": "Witch Hunter Robin",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2002,
+      "genres": [
+        {
+          "id": "Q10728648",
+          "label": "occult detective fiction",
+          "statement": "Q917980$62D67489-3FD8-45D5-B74F-E174321CC416"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q917980$177790CF-D9B1-4206-9C76-BCA555868B68"
+        },
+        {
+          "id": "Q101240755",
+          "label": "thriller anime and manga",
+          "statement": "Q917980$55849DF3-54B7-44BA-8898-5D0959DEF916"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q917980$D61F6E45-3B06-4FF0-8A2F-78DCB0B435FE"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2002-07-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q917980$873187c5-4cd0-17ad-dbbe-9e1aa69bf945"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q917980",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q111450707",
+          "label": "Sunrise",
+          "statement": "Q917980$bfdf758e-4eae-d3a0-eb83-daae8a162ebc"
+        }
+      ]
+    },
+    {
+      "id": "Q1052846",
+      "name": "Last Exile",
+      "search": "Last Exile",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2003,
+      "genres": [
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q1052846$EFCEA751-1B34-4779-B3D0-D8F1B3BFAD99"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q1052846$B7A89A29-5F9D-4EF9-8C19-A40FAE2D9D4E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-04-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1052846$F4A9939D-CCB0-4A0D-A123-7F03A19332A3"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1052846",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q1302552",
+      "name": "El Cazador de la Bruja",
+      "search": "El Cazador de la Bruja",
+      "description": "Japanese anime television series",
+      "aliases": ["El Cazador"],
+      "firstYear": 2007,
+      "genres": [
+        {
+          "id": "Q320568",
+          "label": "yuri",
+          "statement": "Q1302552$0991293B-4842-4AC3-88E0-12F6B82DEF15"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2007-04-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1302552$34E88911-82F9-4266-9CAB-F24944A09224"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1302552",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q813988",
+          "label": "Bee Train",
+          "statement": "Q1302552$66bc91d8-426b-7807-babc-2268325ff61a"
+        }
+      ]
+    },
+    {
+      "id": "Q1631247",
+      "name": "Michiko & Hatchin",
+      "search": "Michiko & Hatchin",
+      "description": "Japanese anime television series",
+      "aliases": ["Michiko to Hatchin"],
+      "firstYear": 2008,
+      "genres": [
+        {
+          "id": "Q15712927",
+          "label": "comedy drama anime and manga",
+          "statement": "Q1631247$0917E87F-4223-4072-BC23-3CCAED5812CA"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2008-10-16T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q1631247$2A51C013-1C2F-4551-BE52-A567E84D4A54"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q1631247",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q645476",
+          "label": "Manglobe",
+          "statement": "Q1631247$d39f0f8c-4c8c-1012-b5e5-001fbe6eb4cd"
+        }
+      ]
+    },
+    {
+      "id": "Q122382478",
+      "name": "House of Five Leaves",
+      "search": "House of Five Leaves",
+      "description": "Japanese anime television series",
+      "aliases": ["Sarai-ya Goyō"],
+      "firstYear": 2010,
+      "genres": [
+        {
+          "id": "Q629917",
+          "label": "Jidaigeki",
+          "statement": "Q122382478$955C6437-9231-41DE-8C12-68796B3AF726"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2010-04-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q122382478$c853ea44-4c94-fe42-334c-785f3ef1f4b3"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q122382478",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q645476",
+          "label": "Manglobe",
+          "statement": "Q122382478$d6264511-4c97-04f7-f39f-083e8a526c64"
+        }
+      ]
+    },
+    {
+      "id": "Q63243482",
+      "name": "ACCA: 13-Territory Inspection Dept.",
+      "search": "ACCA: 13-Territory Inspection Dept.",
+      "description": "Japanese anime television series",
+      "aliases": ["ACCA: 13-ku Kansatsu-ka"],
+      "firstYear": 2017,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2017-01-10T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q63243482$405800f1-4735-f78d-9781-610ea1ac30a1"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q63243482",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q63243482$02c78535-4bb8-72cc-19b2-a7e4dfa3e442"
+        }
+      ]
+    },
+    {
+      "id": "Q120333711",
+      "name": "Shōwa Genroku Rakugo Shinjū",
+      "search": "Showa Genroku Rakugo Shinju",
+      "description": "Japanese anime television series",
+      "aliases": ["Shouwa Genroku Rakugo Shinjuu"],
+      "firstYear": 2016,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2016-01-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q120333711$381E2479-A9ED-4B98-95DA-A980A3F46F4C"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q120333711",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q121438771",
+      "name": "Kids on the Slope",
+      "search": "Kids on the Slope",
+      "description": "Japanese anime television series",
+      "aliases": ["Sakamichi no Apollon"],
+      "firstYear": 2012,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2012-04-12T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q121438771$66ea6433-4c3a-7bbd-0af9-538bfe674d1b"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q121438771",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q11231001",
+          "label": "MAPPA",
+          "statement": "Q121438771$4f296410-41a5-2ba8-9980-1f275dcaa6ab"
+        },
+        {
+          "id": "Q2090847",
+          "label": "Tezuka Productions",
+          "statement": "Q121438771$8ca956bf-485f-7fb8-26ad-ad6523eb4f97"
+        }
+      ]
+    },
+    {
+      "id": "Q115221233",
+      "name": "Ping Pong the Animation",
+      "search": "Ping Pong the Animation",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2014,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q115221233$d9482fd5-499a-c9f6-f9ce-fa20a94795d3"
+        },
+        {
+          "id": "Q2281511",
+          "label": "spokon",
+          "statement": "Q115221233$fa85d25b-4d06-f03b-2951-da7a5c9755e4"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2014-04-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q115221233$bb1b0c6d-4dc8-e1e1-f19b-b62d38aebd68"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q115221233",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1323459",
+          "label": "Tatsunoko Production",
+          "statement": "Q115221233$0b21ff26-4282-eb6c-89cf-da765449b119"
+        }
+      ]
+    },
+    {
+      "id": "Q141514671",
+      "name": "Run with the Wind",
+      "search": "Run with the Wind",
+      "description": "Japanese anime television series",
+      "aliases": ["Kaze ga Tsuyoku Fuiteiru"],
+      "firstYear": 2018,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-10-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q141514671$99c0e784-40c7-f21f-027c-c7709d3ff9e2"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q141514671",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q735670",
+          "label": "Production I.G",
+          "statement": "Q141514671$2f9be5ed-421f-d0d8-7ada-af24070def66"
+        }
+      ]
+    },
+    {
+      "id": "Q127115567",
+      "name": "Chihayafuru",
+      "search": "Chihayafuru",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2011,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-10-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q127115567$796cac2e-4435-b2d0-77f4-b3c5791b4dbb"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q127115567",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q127115567$b686cd9a-48a6-54f4-495d-415d61a61bfd"
+        }
+      ]
+    },
+    {
+      "id": "Q120637199",
+      "name": "Barakamon",
+      "search": "Barakamon",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2014,
+      "genres": [
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q120637199$7D764415-0E7F-427E-B914-F95683CF9109"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q120637199$F91BA60D-7C0C-4601-B6B9-B73C36E05759"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2014-07-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q120637199$70f6636e-47c1-d5c9-b2b6-18f189845073"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q120637199",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q108906893",
+      "name": "Bunny Drop",
+      "search": "Usagi Drop",
+      "description": "Japanese anime television series",
+      "aliases": ["Usagi Drop"],
+      "firstYear": 2011,
+      "genres": [
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q108906893$AF63F340-320E-4B86-ACB4-F34131C3EEAF"
+        },
+        {
+          "id": "Q15712927",
+          "label": "comedy drama anime and manga",
+          "statement": "Q108906893$6EF88960-842F-439C-9A16-6AD94339BDAD"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-07-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q108906893$a51a47d6-4b43-55c2-4734-1ca630def89b"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q108906893",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q735670",
+          "label": "Production I.G",
+          "statement": "Q108906893$29de88e4-4318-2b91-90fd-7194fe547fd3"
+        }
+      ]
+    },
+    {
+      "id": "Q93404991",
+      "name": "Hinamatsuri",
+      "search": "Hinamatsuri",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2018,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q93404991$b20eb5be-47c6-b27e-7351-2ba8b108c1f2"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-04-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q93404991$9c764856-4713-76d7-b912-e1e31da9b565"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q93404991",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q307291",
+          "label": "Feel",
+          "statement": "Q93404991$f3c8c211-4dc7-1c8b-6c32-0d3fa4359e54"
+        }
+      ]
+    },
+    {
+      "id": "Q61654278",
+      "name": "Asobi Asobase",
+      "search": "Asobi Asobase",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2018,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q61654278$8123193f-489e-f6f9-eeb6-3539daadca51"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-07-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q61654278$ced9476d-491d-ef6f-f1fb-2cef4b8da006"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q61654278",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q17050703",
+          "label": "Lerche",
+          "statement": "Q61654278$53380271-4b77-7c5e-e6ea-3b158decd5d5"
+        }
+      ]
+    },
+    {
+      "id": "Q104381607",
+      "name": "Azumanga Daioh",
+      "search": "Azumanga Daioh",
+      "description": "Japanese anime television series",
+      "aliases": ["Azumanga Daioh: The Animation"],
+      "firstYear": 2002,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q104381607$AF6C4BE6-302F-4D7F-9DFF-811D8B013316"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q104381607$9ABFCB71-6552-4A04-A6AC-768967C4AFEF"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q104381607$3B986911-6108-46EE-B3E4-962D6DC00033"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2002-04-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q104381607$8e3c058f-4061-f0ea-3494-0fdd63621d5e"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q104381607",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1065717",
+          "label": "J.C.Staff",
+          "statement": "Q104381607$3e111e32-4aee-8e30-4320-e5d28dfc4edf"
+        }
+      ]
+    },
+    {
+      "id": "Q106567447",
+      "name": "Nichijou",
+      "search": "Nichijou",
+      "description": "Japanese anime television series",
+      "aliases": ["Nichijō", "Nichijo"],
+      "firstYear": 2011,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q106567447$F824C588-9C0E-439F-813F-CB8ACBFE95C8"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q106567447$17CDAC0F-B425-4388-BAC4-E0912F3EDE1A"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q106567447$E0C51F5D-44E8-4E80-9CAA-C7EAC9493BAE"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-04-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q106567447$a24a9a15-4409-99b4-175e-2b76d9e210a6"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q106567447",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q877325",
+          "label": "Kyoto Animation",
+          "statement": "Q106567447$248A73BC-0AF6-4470-B59D-83C3A172DF38"
+        }
+      ]
+    },
+    {
+      "id": "Q5973302",
+      "name": "Lucky Star",
+      "search": "Lucky Star",
+      "description": "Japanese anime television series",
+      "aliases": ["Lucky☆Star"],
+      "firstYear": 2007,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q5973302$CF2AAECB-479C-48BB-878B-8CE81E59C5B0"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q5973302$D168658E-9D01-428B-A62D-2544A15BB3D1"
+        },
+        {
+          "id": "Q101441130",
+          "label": "cute girls doing cute things",
+          "statement": "Q5973302$8EF766CC-541E-4503-93F5-4B2B6C125277"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2007-04-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q5973302$c7e2a7da-48a9-d07d-474e-e463f14eeb84"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q5973302",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q877325",
+          "label": "Kyoto Animation",
+          "statement": "Q5973302$3ced0fb3-4806-1539-3fd3-211097419bbc"
+        }
+      ]
+    },
+    {
+      "id": "Q90570314",
+      "name": "Aria the Animation",
+      "search": "Aria the Animation",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2005,
+      "genres": [
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q90570314$DFF7A89F-D076-4A7B-BED1-C4A27E418F7B"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q90570314$D68A6448-AAD2-4816-A09E-6415E7BF91A1"
+        },
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q90570314$26CCEED3-3EB9-4E83-AAF8-E456B89B0D11"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q90570314$6AA36869-713D-407C-8F35-1F0F2943EC21"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q90570314$32EB36C3-2F89-47C7-81D1-3649AAE9EF56"
+        },
+        {
+          "id": "Q97358333",
+          "label": "iyashikei",
+          "statement": "Q90570314$e3137f71-4019-bcf8-1a0c-2b298a93dcb8"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2005-10-05T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q90570314$7B2B83E2-848A-4888-B347-4ACFDB45E7A7"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q90570314",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q3111302",
+          "label": "Hal Film Maker",
+          "statement": "Q90570314$f01ebf15-423f-0701-be28-0bc82ae0719c"
+        }
+      ]
+    },
+    {
+      "id": "Q112663932",
+      "name": "Tamayura: Hitotose",
+      "search": "Tamayura",
+      "description": "Japanese anime television series",
+      "aliases": ["Tamayura Hitotose", "Tamayura ~Hitotose~"],
+      "firstYear": 2011,
+      "genres": [
+        {
+          "id": "Q2561438",
+          "label": "slice of life",
+          "statement": "Q112663932$721a91ee-478c-3a89-6ad9-5f16e5aa60bd"
+        },
+        {
+          "id": "Q101441130",
+          "label": "cute girls doing cute things",
+          "statement": "Q112663932$91086fba-40fa-b44b-c06f-054fcadf590c"
+        },
+        {
+          "id": "Q97358333",
+          "label": "iyashikei",
+          "statement": "Q112663932$750271b4-4b67-aa51-040f-6d1450941d00"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2011-10-03T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q112663932$2bf8443f-4547-bae4-3e0d-47d397ec3828"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q112663932",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q7672604",
+          "label": "Yumeta Company",
+          "statement": "Q112663932$398ba69f-4113-ed04-cdcf-4301629ee241"
+        }
+      ]
+    },
+    {
+      "id": "Q972136",
+      "name": "Kamichu!",
+      "search": "Kamichu!",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "A Deity As a Middle-School Student",
+        "Kamisama de Chūgakusei"
+      ],
+      "firstYear": 2005,
+      "genres": [
+        {
+          "id": "Q5366097",
+          "label": "school anime and manga",
+          "statement": "Q972136$40BA68FA-C5B6-423C-91F5-48CF700C0C83"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q972136$496C40F1-DDC1-441A-A837-C3F3C999FD2C"
+        },
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q972136$C9D7362A-F3D6-4A6C-B7B9-ED0AE44BB142"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2005-06-29T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q972136$2EF7566A-CB9B-4E21-A737-A0A795EE9C75"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q972136",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q2528458",
+          "label": "Brain's Base",
+          "statement": "Q972136$8ba3855a-4dd6-9c02-fd76-cd8cde1024a4"
+        }
+      ]
+    },
+    {
+      "id": "Q84338099",
+      "name": "Flying Witch",
+      "search": "Flying Witch",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2016,
+      "genres": [
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q84338099$1A778DC9-5C1A-4A59-9D05-E505E9ADEF4A"
+        },
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q84338099$65471B1D-9BD9-40CA-ABB7-381393F0F321"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q84338099$2FFEA232-6D3C-46BA-AEF6-BDA34E33E2A6"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2016-04-10T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q84338099$aeefc887-4132-549e-7313-203797ca131a"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q84338099",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q16878993",
+      "name": "Non Non Biyori",
+      "search": "Non Non Biyori",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2013,
+      "genres": [
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q16878993$5C7148C7-EF37-441A-BF23-E71BD0A8D50C"
+        },
+        {
+          "id": "Q15286013",
+          "label": "comedy anime and manga",
+          "statement": "Q16878993$8746E5FD-8C1D-486D-B511-0298D1865651"
+        },
+        {
+          "id": "Q97358333",
+          "label": "iyashikei",
+          "statement": "Q16878993$bce28fd9-4b3c-2d90-7bed-4333e91b80c3"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2013-10-08T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q16878993$f941e340-4a83-332a-31de-55f6f15d7c55"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q16878993",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q421414",
+          "label": "Silver Link",
+          "statement": "Q16878993$01D50276-0F2B-4596-BAD2-AE6C6F7C3DF1"
+        }
+      ]
+    },
+    {
+      "id": "Q64029196",
+      "name": "Laid-Back Camp",
+      "search": "Laid-Back Camp",
+      "description": "Japanese anime television series",
+      "aliases": ["Yuru Camp", "Yurukyan", "Yurucamp△"],
+      "firstYear": 2018,
+      "genres": [
+        {
+          "id": "Q97358333",
+          "label": "iyashikei",
+          "statement": "Q64029196$1a07a69f-45e4-e140-18c3-44f3d499f7f7"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-01-04T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q64029196$11d0f763-45c3-1182-baf5-9a182dea6005"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q64029196",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q16828691",
+          "label": "C-Station",
+          "statement": "Q64029196$ae6cdd67-4150-afef-59d2-82b61d6eb3fa"
+        },
+        {
+          "id": "Q11289604",
+          "label": "Eight Bit",
+          "statement": "Q64029196$2fa9f376-4c6f-e8d6-366b-be8a6debfc26"
+        }
+      ]
+    },
+    {
+      "id": "Q42895115",
+      "name": "A Place Further Than The Universe",
+      "search": "A Place Further than the Universe",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "Sora yori mo Tōi Basho",
+        "Sora yori mo Tooi Basho",
+        "Yorimoi"
+      ],
+      "firstYear": 2018,
+      "genres": [
+        {
+          "id": "Q135684998",
+          "label": "coming-of-age anime and manga",
+          "statement": "Q42895115$30E23DD0-AACA-4051-8A69-2357E2266708"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q42895115$d16121e3-4342-c320-3cdd-7e835f0ebe60"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2018-01-02T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q42895115$c44d03ba-4889-8075-e5bd-ef9e3de530e9"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q42895115",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q42895115$55f95e1f-44d7-0908-4edc-5b338c2c15f5"
+        }
+      ]
+    },
+    {
+      "id": "Q78192210",
+      "name": "Girls' Last Tour",
+      "search": "Girls’ Last Tour",
+      "description": "Japanese anime television series",
+      "aliases": ["Shoujo Shuumatsu Ryokou", "Shōjo Shūmatsu Ryokō"],
+      "firstYear": 2017,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q78192210$b62e6706-40f2-2ffe-e5b7-258920cc7395"
+        },
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q78192210$a84a8e2c-404d-2a4e-7168-c5b7b92d0dad"
+        },
+        {
+          "id": "Q15428604",
+          "label": "slice of life anime and manga",
+          "statement": "Q78192210$a0cc87bb-46de-45bd-aa4c-b0330c092caa"
+        },
+        {
+          "id": "Q103016666",
+          "label": "post-apocalyptic anime and manga",
+          "statement": "Q78192210$722c3387-4799-e5cd-6bb5-fd3f3cd64acd"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2017-10-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q78192210$30CAB64A-07DD-43CA-8381-060467C9AD17"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q78192210",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q749550",
+          "label": "White Fox",
+          "statement": "Q78192210$a0618b33-4606-40b4-6696-8cca3fa14b0c"
+        }
+      ]
+    },
+    {
+      "id": "Q61853333",
+      "name": "Made in Abyss",
+      "search": "Made in Abyss",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2017,
+      "genres": [
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q61853333$7f46f12a-4e6a-c85a-95d7-87fc595b6075"
+        },
+        {
+          "id": "Q15712918",
+          "label": "adventure anime and manga",
+          "statement": "Q61853333$5a3499d9-4813-0273-a252-5cde6c52a663"
+        },
+        {
+          "id": "Q794912",
+          "label": "dark fantasy",
+          "statement": "Q61853333$7cf4426a-4168-63ee-4f97-1efd199d1f6e"
+        },
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q61853333$78951ba4-4463-f4d1-76a7-7e9e602fe51d"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2017-07-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q61853333$72db1328-4fb0-dd2f-451a-eceb14ca5787"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q61853333",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q6410686",
+          "label": "Kinema Citrus",
+          "statement": "Q61853333$e76bff0f-4b4b-971c-cbe5-13a9b99af428"
+        }
+      ]
+    },
+    {
+      "id": "Q53877791",
+      "name": "Land of the Lustrous",
+      "search": "Land of the Lustrous",
+      "description": "Japanese anime television series",
+      "aliases": ["Hōseki no Kuni", "Houseki no Kuni"],
+      "firstYear": 2017,
+      "genres": [
+        {
+          "id": "Q15637301",
+          "label": "fantasy anime and manga",
+          "statement": "Q53877791$0eecb424-4ffb-b108-915e-f90d0b117465"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2017-10-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q53877791$8a68f6f6-4edf-6b64-c100-92e7d5eb1c52"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q53877791",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q11292922",
+          "label": "Orange",
+          "statement": "Q53877791$7050585d-4ec2-83c7-f79f-9be593e0b073"
+        }
+      ]
+    },
+    {
+      "id": "Q105965081",
+      "name": "Odd Taxi",
+      "search": "Odd Taxi",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2021,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2021-04-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q105965081$7f7686ea-4108-2b6d-1774-37f9905ef573"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q105965081",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q11331425",
+          "label": "P.I.C.S.",
+          "statement": "Q105965081$605d7db9-4364-12f8-e3a0-b0b25359b6e2"
+        },
+        {
+          "id": "Q947930",
+          "label": "OLM, Inc.",
+          "statement": "Q105965081$adc5c799-43c3-f609-ba1a-6579094d4507"
+        }
+      ]
+    },
+    {
+      "id": "Q106837406",
+      "name": "Sonny Boy",
+      "search": "Sonny Boy",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2021,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q106837406$250b963c-4f5d-9a15-d12c-e2c363e9b8cd"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2021-07-15T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q106837406$82651732-4867-7c8a-3c6a-7140e5bad325"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q106837406",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q650867",
+          "label": "Madhouse",
+          "statement": "Q106837406$646af52c-48b0-0fc6-4abc-c908d64dc517"
+        }
+      ]
+    },
+    {
+      "id": "Q28154189",
+      "name": "The Great Passage",
+      "search": "The Great Passage",
+      "description": "Japanese anime television series",
+      "aliases": ["Fune o Amu", "Fune wo Amu"],
+      "firstYear": 2016,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2016-10-14T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q28154189$BB2EBE75-5FC4-4DD0-9431-E2D98FEEAF0D"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q28154189",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q78192585",
+      "name": "The Eccentric Family",
+      "search": "The Eccentric Family",
+      "description": "Japanese anime television series",
+      "aliases": ["Uchōten Kazoku", "Uchouten Kazoku"],
+      "firstYear": 2013,
+      "genres": [
+        {
+          "id": "Q61942616",
+          "label": "supernatural anime and manga",
+          "statement": "Q78192585$1747E36A-8B7D-421D-AF0E-0B37C9D2831B"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2013-07-07T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q78192585$63df6df8-487e-7277-cce7-64aff8d23118"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q78192585",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1584469",
+          "label": "P.A. Works",
+          "statement": "Q78192585$4dd8a172-4571-74b2-9da9-6294904d87ba"
+        }
+      ]
+    },
+    {
+      "id": "Q117344872",
+      "name": "Heavenly Delusion",
+      "search": "Heavenly Delusion",
+      "description": "Japanese anime television series",
+      "aliases": ["Tengoku Daimakyō", "Tengoku Daimakyou", "Tengoku Daimakyo"],
+      "firstYear": 2023,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q117344872$30AFF485-544F-49FE-9AD7-EDF787C19E79"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2023-04-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q117344872$2BA9A2F4-3BEA-4801-8A14-CA650BE91E2C"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q117344872",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q735670",
+          "label": "Production I.G",
+          "statement": "Q117344872$6890e967-4666-70be-4cef-0bf367cde1a8"
+        },
+        {
+          "id": "Q1203676",
+          "label": "Khara",
+          "statement": "Q117344872$853f71fe-4a8d-84a6-fcca-7f91696c78c9"
+        }
+      ]
+    },
+    {
+      "id": "Q4049303",
+      "name": "Seraphim Call",
+      "search": "Seraphim Call",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 1999,
+      "genres": [
+        {
+          "id": "Q320568",
+          "label": "yuri",
+          "statement": "Q4049303$6C76DA06-641A-4356-9DBB-272B229FD262"
+        },
+        {
+          "id": "Q85133165",
+          "label": "LGBT-related television series",
+          "statement": "Q4049303$D245942F-3C69-4947-B260-C4C8D615C92E"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+1999-10-06T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q4049303$e6fcbad4-49e2-7be9-d512-5bcce6f78148"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q4049303",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q111450707",
+          "label": "Sunrise",
+          "statement": "Q4049303$CA72757B-BD8A-4594-BCD3-6C2F2A6E2CFC"
+        }
+      ]
+    },
+    {
+      "id": "Q960545",
+      "name": "Windy Tales",
+      "search": "Windy Tales",
+      "description": "Japanese anime television series",
+      "aliases": ["Fūjin Monogatari"],
+      "firstYear": 2004,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q960545$C41D8856-20D4-42BB-9A9E-821E00AE84C8"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2004-09-11T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q960545$a443caac-4021-264e-c9a6-a7ad24a98f70"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q960545",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q735670",
+          "label": "Production I.G",
+          "statement": "Q960545$372B4E41-0B14-4728-A0E1-BC5A5FEBADA9"
+        }
+      ]
+    },
+    {
+      "id": "Q106569433",
+      "name": "Someday's Dreamers",
+      "search": "Someday’s Dreamers",
+      "description": "Japanese anime television series",
+      "aliases": [
+        "Mahōtsukai ni Taisetsu na Koto",
+        "Mahoutsukai ni Taisetsu na Koto"
+      ],
+      "firstYear": 2003,
+      "genres": [],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-01-09T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q106569433$57c91fc2-4be8-1094-5ce9-71c32aa9b4b8"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q106569433",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q5448010",
+      "name": "Figure 17",
+      "search": "Figure 17",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2001,
+      "genres": [
+        {
+          "id": "Q15637299",
+          "label": "drama anime and manga",
+          "statement": "Q5448010$CDFEB22C-911D-4C56-92B4-E3CF7743C40A"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2001-05-27T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q5448010$c4ac8d8c-46c2-f299-6992-3d426fea3320"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q5448010",
+      "retrieved": "2026-11-05",
+      "productionCompanies": []
+    },
+    {
+      "id": "Q285821",
+      "name": "NieA_7",
+      "search": "NieA 7",
+      "description": "Japanese anime television series",
+      "aliases": ["NieA under 7"],
+      "firstYear": 2000,
+      "genres": [
+        {
+          "id": "Q5366020",
+          "label": "science fiction anime and manga",
+          "statement": "Q285821$F7FE98BA-EE50-489A-89D9-C0393944BB1D"
+        },
+        {
+          "id": "Q15712927",
+          "label": "comedy drama anime and manga",
+          "statement": "Q285821$E64F6567-2999-43B7-81EE-C296C72FA3B6"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2000-04-26T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q285821$b32f5af7-406d-9a78-7ce9-1f177da95fdd"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q285821",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q3062351",
+          "label": "Triangle Staff",
+          "statement": "Q285821$95F99D82-03FF-4B1E-9458-7DD5600E9AC6"
+        }
+      ]
+    },
+    {
+      "id": "Q3276539",
+      "name": "R.O.D the TV",
+      "search": "R.O.D the TV",
+      "description": "Japanese anime television series",
+      "aliases": [],
+      "firstYear": 2003,
+      "genres": [
+        {
+          "id": "Q15637293",
+          "label": "action anime and manga",
+          "statement": "Q3276539$2B5FD229-901E-4320-977C-C7DC8C4E8CA4"
+        },
+        {
+          "id": "Q15637305",
+          "label": "mystery anime and manga",
+          "statement": "Q3276539$0936ade5-4e29-f55d-912b-e0e0759de3ef"
+        }
+      ],
+      "dateClaims": [
+        {
+          "value": {
+            "time": "+2003-09-01T00:00:00Z",
+            "timezone": 0,
+            "before": 0,
+            "after": 0,
+            "precision": 11,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+          },
+          "statement": "Q3276539$B9C33BE0-F785-474F-99E6-B4CBFE82A04B"
+        }
+      ],
+      "source": "https://www.wikidata.org/wiki/Q3276539",
+      "retrieved": "2026-11-05",
+      "productionCompanies": [
+        {
+          "id": "Q1065717",
+          "label": "J.C.Staff",
+          "statement": "Q3276539$17d5fb2b-4762-aaa5-cc31-993f637e78f8"
+        },
+        {
+          "id": "Q507806",
+          "label": "Studio Deen",
+          "statement": "Q3276539$e566a033-4fd1-4f42-b510-516e6f1441a6"
+        }
+      ]
+    }
+  ]
+}
